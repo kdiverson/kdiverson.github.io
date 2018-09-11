@@ -1,0 +1,14 @@
+url: http://kdiverson.github.io
+baseurl: 
+
+# Site Settings
+title: Kathryn Iverson
+description: "Full stack bioinformatics"
+keywords: "bioinformatics, data science, microbiome"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]

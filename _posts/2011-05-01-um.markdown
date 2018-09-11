@@ -1,0 +1,10 @@
+---
+layout: null
+title: May 2011
+subtitle:
+image: "img/timeline/um.jpg"
+---
+
+MS Bioinformatics
+
+University of Michigan

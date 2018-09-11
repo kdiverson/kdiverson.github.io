@@ -1,0 +1,10 @@
+---
+layout: null
+title: May 2008
+subtitle:
+image: "img/timeline/ec.jpg"
+---
+
+BA biology
+
+Earlham College

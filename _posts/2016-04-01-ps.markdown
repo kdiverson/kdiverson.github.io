@@ -1,0 +1,11 @@
+---
+layout: null
+title: June 2011 - April 2016
+subtitle:
+image: "img/timeline/mothur_RGB.jpg"
+---
+
+Programmer Analyst
+
+Schloss Lab, University of Michigan
+

@@ -1,1 +1,0 @@
-# kdiverson.github.io
