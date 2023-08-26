@@ -1,0 +1,10 @@
+---
+layout: null
+title: April 2019 - Present
+subtitle:
+image: "img/timeline/in.jpg"
+---
+
+Senior Software Engineer
+
+insitro
